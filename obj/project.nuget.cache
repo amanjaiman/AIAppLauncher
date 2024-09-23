@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFodcF/HBLQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amanj\\Documents\\AIAppLauncher\\AIAppLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanj\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\amanj\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
